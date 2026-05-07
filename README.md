@@ -19,3 +19,6 @@ CSS3,
 JavaScript(ES6+), 
 Font Awesome, 
 Google Fonts
+
+Author
+Erdene-Ochir Ochirgarav 
